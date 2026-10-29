@@ -1,0 +1,20 @@
+{
+  "name": "Nabd | نبض",
+  "short_name": "نبض",
+  "description": "ملفك الطبي في جيبك، والدكتور على بُعد ضغطة",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3158F5",
+  "theme_color": "#3158F5",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
